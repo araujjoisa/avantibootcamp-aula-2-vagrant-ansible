@@ -59,7 +59,7 @@ Você verá a página de boas-vindas do **Nginx** ou sua página personalizada (
 
 ### 🖼️ Exemplo de tela:
 
-![Evidência do NGINX rodando](images/nginx_screenshot.png)
+![Evidência do NGINX rodando](nginx_screenshot.png)
 
 ---
 
